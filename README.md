@@ -1,7 +1,7 @@
 # Mercury Droid Android IoT Home Weather Monitoring Application
 
 <b>Author :</b> <br>
-Arunav Mallik Avi, <br>
+Arunav Mallik Avi (Arm Avi), <br>
 Department of Computer Science and Engineering, 
 National University, Bangladesh
 

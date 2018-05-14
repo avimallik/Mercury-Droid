@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_start_server"
+            android:icon="@drawable/server"
+            android:title="Start Server" />
+        <item
+            android:id="@+id/nav_add_ip"
+            android:icon="@drawable/ip"
+            android:title="Add IP Address" />
+        <item
+            android:id="@+id/nav_add_threshold"
+            android:icon="@drawable/threshold"
+            android:title="Add Threshold" />
+        <item
+            android:id="@+id/nav_add_configuration"
+            android:icon="@android:drawable/ic_menu_manage"
+            android:title="Mercury Droid Configuration" />
+        <item
+            android:id="@+id/nav_build_mercury_droid"
+            android:icon="@drawable/ranch"
+            android:title="Build Mercury Droid System" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/info"
+            android:title="About" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+        </menu>
+    </item>
+
+</menu>

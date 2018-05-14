@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_start_server"
+        android:orderInCategory="100"
+        android:title="Start Server"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_ip_add"
+        android:orderInCategory="100"
+        android:title="Add IP"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_threshold"
+        android:orderInCategory="100"
+        android:title="Add Threshold"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_exit"
+        android:orderInCategory="100"
+        android:title="Exit"
+        app:showAsAction="never" />
+</menu>

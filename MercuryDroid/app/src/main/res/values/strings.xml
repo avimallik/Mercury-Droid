@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MercuryDroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_panel">Mercury Droid</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_about"></string>
+
+    <string name="about_des">
+        Mercury Droid is one kind of Internet of Things (IoT) Embedded System based on NodeMCU(ESP-8266) IoT Module.
+which is capable of measures and monitor the home weather and generates them in JSON data
+and send them to the "Node MCU (ESP8266)" IoT Server, Mercury Droid Android Mobile
+application read this JSON data from Node MCU(ESP-8266) IoT Server.
+this application has also a special feature to measures excessive threshold
+temperature value and gives alert to the user.
+    </string>
+
+    <string name="dev_des">
+        System Architecture and Application developed by "Arunav Mallik Avi (arm avi)".
+        Department of Computer science and Engineering, National University, Bangladesh
+    </string>
+    <string name="title_activity_configure">Configuration</string>
+
+</resources>

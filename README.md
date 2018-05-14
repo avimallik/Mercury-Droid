@@ -31,7 +31,7 @@ so that any one can build their own Home weather Monitoring IoT Software and Har
 <b> Important information : </b>
 By default the static IP address is 19.168.0.107 but you can change this from NodeMCU(ESP-8266MOD) or MercuryDroid system Arduino IDE Code
 
-<b> Mercury Droid or NodeMCU(ESP-8266MOD) System Arduino IDE Code : <b>
+<b> Mercury Droid or NodeMCU(ESP-8266MOD) System Arduino IDE Code : <b><br>
 https://github.com/avimallik/IoT-Home-weather-monitoring-system-NodeMCU-ESP-8266MOD-Code
   
 <b>Screenshoot : </b><br>
